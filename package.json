@@ -1,0 +1,25 @@
+{
+  "name": "js-todo-app-oop",
+  "version": "1.0.0",
+  "description": "Javascript todo app oop",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erolislen/js-todo-app-oop.git"
+  },
+  "keywords": [
+    "javascript",
+    "todo",
+    "app",
+    "oop"
+  ],
+  "author": "Erol İŞLEN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erolislen/js-todo-app-oop/issues"
+  },
+  "homepage": "https://github.com/erolislen/js-todo-app-oop#readme"
+}
